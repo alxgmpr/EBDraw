@@ -1,0 +1,11 @@
+{
+  "product_id": "2344424308784",
+  "email": "jdoe@gmail.com",
+  "password": "password123!",
+  "size": "10",
+  "phone": "1234567890",
+  "card_number": "1111222233334444",
+  "card_exp_m": "11",
+  "card_exp_y": "22",
+  "card_cvc": "123"
+}
