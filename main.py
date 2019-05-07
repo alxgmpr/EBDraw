@@ -213,6 +213,7 @@ class EBDraw(threading.Thread):
         self.get_size()
         self.make_entry()
         self.tokenize_card()
+        self.finalize_entry()
 
 
 E = EBDraw()
