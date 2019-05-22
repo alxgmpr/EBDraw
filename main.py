@@ -175,7 +175,7 @@ class EBDraw(threading.Thread):
                 'card[exp_month]': self.card_exp_m,
                 'card[exp_year]': self.card_exp_y,
                 'payment_user_agent': 'stripe.js/7c311245; stripe-js-v3/7c311245',
-                'referrer': 'https://shop.extrabutterny.com/products/eb-ts',
+                'referrer': 'https://shop.extrabutterny.com/products/adidas-yeezy-boost-350-v2-glow-eg5293',
                 'key': STRIPE_PUB_KEY
             }
         )
